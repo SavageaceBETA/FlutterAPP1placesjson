@@ -1,0 +1,30 @@
+[
+  {
+    "topic": "Food & Drink",
+    "places": [
+      {
+        "name": "The Cozy Diner",
+        "imageUrl": "https://via.placeholder.com/120x90.png?text=Cozy+Diner",
+        "address": "123 Main St",
+        "contact": "555-1234"
+      },
+      {
+        "name": "Pizza Palace",
+        "imageUrl": "https://via.placeholder.com/120x90.png?text=Pizza+Palace",
+        "address": "45 Elm St",
+        "contact": "555-5678"
+      }
+    ]
+  },
+  {
+    "topic": "Explore",
+    "places": [
+      {
+        "name": "Maple Grove Park",
+        "imageUrl": "https://via.placeholder.com/120x90.png?text=Maple+Grove+Park",
+        "address": "789 Oak Ave",
+        "contact": "555-9012"
+      }
+    ]
+  }
+]
