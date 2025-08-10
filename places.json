@@ -1,5 +1,28 @@
 [
   {
+    "topic": "Featured",
+    "places": [
+      {
+        "name": "Featured Place 1",
+        "imageUrl": "https://via.placeholder.com/160x120.png?text=Featured+1",
+        "address": "111 Apex St",
+        "contact": "555-1111"
+      },
+      {
+        "name": "Featured Place 2",
+        "imageUrl": "https://via.placeholder.com/160x120.png?text=Featured+2",
+        "address": "222 Apex Ave",
+        "contact": "555-2222"
+      },
+      {
+        "name": "Featured Place 3",
+        "imageUrl": "https://via.placeholder.com/160x120.png?text=Featured+3",
+        "address": "333 Apex Blvd",
+        "contact": "555-3333"
+      }
+    ]
+  },
+  {
     "topic": "Food & Drink",
     "places": [
       {
@@ -9,7 +32,7 @@
         "contact": "555-1234"
       },
       {
-        "name": "dalace",
+        "name": "Pizza Palace",
         "imageUrl": "https://via.placeholder.com/120x90.png?text=Pizza+Palace",
         "address": "45 Elm St",
         "contact": "555-5678"
@@ -20,21 +43,10 @@
     "topic": "Explore",
     "places": [
       {
-        "name": "Maple Park",
+        "name": "Maple Grove Park",
         "imageUrl": "https://via.placeholder.com/120x90.png?text=Maple+Grove+Park",
         "address": "789 Oak Ave",
         "contact": "555-9012"
-      }
-    ]
-  },
-  {
-    "topic": "Learn",
-    "places": [
-      {
-        "name": "All Star Aces",
-        "imageUrl": "https://via.placeholder.com/120x90.png?text=Maple+Grove+Park",
-        "address": "789 Oak Ave",
-        "contact": "55-9012"
       }
     ]
   }
